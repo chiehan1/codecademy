@@ -1,0 +1,12 @@
+img {
+	width:30px;
+	height:30px;
+}
+
+th, td{
+	background-color:orange;
+}
+
+td{
+	border:dashed;
+}

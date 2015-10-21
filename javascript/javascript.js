@@ -1,8 +1,20 @@
 console.log("Jack".length);
 
 //confirm('Is there a window jumping up?');html;跳出視窗有是非選項;'是' 返回 true;'否' 返回 false;
+//var age = confirm("Is your age less than 13?");
+//if (age === true) {
+//	console.log("enough");
+//} else {
+//	console.log("too small");
+//}
 
 //prompt('How are you?');html;跳出視窗可輸入字;
+//var age = prompt("What is your age?");
+//if (age < 13) {
+//	console.log("too small");
+//} else {
+//	console.log("enough");
+//}
 
 var test_boolean = "I am coding like a champ".length > 10;
 console.log(test_boolean);
